@@ -1,0 +1,13 @@
+.gnome{
+    border:solid 4px black;
+    margin: 30px;
+}
+header{
+    background-color:dimgray;
+}
+.one h1{
+    color: darkgoldenrod;
+}
+header p{
+    padding-left: 1000px;
+}
