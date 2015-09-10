@@ -103,7 +103,29 @@ border-radius: 100%px;
 .shoes{
     position: relative;
 }
-    
+.six{
+    background-color:darkkhaki;
+    align-content: center;
+}
+.six p {
+    padding-left: 500px;
+    font-size: 30px;
+}
+.seven{
+    background-color: floralwhite;
+}
+.seven h2{
+    padding-left: 20px;
+}
+footer{
+  background-color: darkslategray  
+}
+.foot p{
+    margin-left: 250px;
+}
+.foot p p{
+    margin-left: 300px;
+}
     
     
     
