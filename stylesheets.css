@@ -1,3 +1,6 @@
+body{
+    background-color: cyan;
+}
 .gnome{
    
 }
@@ -13,9 +16,10 @@ header p{
 }
 .two{
     height: 400px;
+    background-color: floralwhite;
 }
 .big{
-    height: 500px;
+    height: 400px;
     width: 100%;
 }
     
@@ -26,7 +30,22 @@ header p{
     right: 85%;
 }
 .beauty h2{
-    font-size: 35px
+    font-size: 30px;
+}
+.email{
+    position: absolute;
+    top:350px;
+    left:30px;
+}
+.email p{
+    text-decoration-line: overline;
+    text-decoration-line: underline;
+}
+.three{
+    background-color: floralwhite;
+}
+    
+    
     
 
 
