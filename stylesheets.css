@@ -56,15 +56,38 @@ header p{
     border-bottom-left-radius: 15px;
     border-bottom-right-radius:15px;
 }
+.butt{
+    height: 100px;
+    width: 100px;
+    border: solid black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    -webkit-border-radius: 100%px;
+-moz-border-radius: 100%px;
+border-radius: 100%px;
+}
+
 .details p{
     font-size: 30px;
     text-align: center
 }
+/*
 .editable{
     background-color: aliceblue;
 }
+.edit{
+   padding-right: px;
+}
+.versatile{
+   padding-left:200px;
+}
+.professional{
+    padding-left: 600px;
+}
 
-
+*/
     
     
     
