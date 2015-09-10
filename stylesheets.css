@@ -1,9 +1,9 @@
 .gnome{
-    border:solid 4px black;
-    margin: 30px;
+   
 }
 header{
     background-color:dimgray;
+    
 }
 .one h1{
     color: darkgoldenrod;
@@ -11,3 +11,24 @@ header{
 header p{
     padding-left: 1000px;
 }
+.two{
+    height: 400px;
+}
+.big{
+    height: 500px;
+    width: 100%;
+}
+    
+.beauty{
+   position: absolute;
+    top:120px;
+    left:30px;
+    right: 85%;
+}
+.beauty h2{
+    font-size: 35px
+    
+
+
+
+    
