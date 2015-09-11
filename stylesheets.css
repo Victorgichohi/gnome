@@ -1,3 +1,7 @@
+#body{
+    margin-right:150px;
+    margin-left:150px;
+}
 body{
     background-color: cyan;
 }
@@ -11,9 +15,10 @@ header{
 .one h1{
     color: darkgoldenrod;
 }
-header p{
-    padding-left: 1000px;
+.onep{
+    padding-left: 300px;
 }
+
 .two{
     height: 400px;
     background-color: floralwhite;
@@ -73,20 +78,30 @@ border-radius: 100%px;
     font-size: 30px;
     text-align: center
 }
-/*
+
 .editable{
     background-color: aliceblue;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+
 }
 .edit{
-   padding-right: px;
+     position: absolute;
 }
 .versatile{
-   padding-left:200px;
+    position: absolute;
+    padding-bottom: 70px;
+   padding-left:350px;
+
 }
 .professional{
-    padding-left: 600px;
+    padding-left: 700px;
+    padding-top:10px;
 }
-*/
+
 .fourr{
     background-color: floralwhite;
 }
