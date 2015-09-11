@@ -2,6 +2,9 @@
     margin-right:150px;
     margin-left:150px;
 }
+p{
+    color:aqua;
+}
 body{
     background-color: cyan;
 }
@@ -15,32 +18,39 @@ header{
 .one h1{
     color: darkgoldenrod;
 }
-.onep{
-    padding-left: 300px;
+#onep{
+    padding-left: 700px;
+    color: black;
+}
+#onep p{
+    color: black;
+}
+#onep a{
+    text-decoration: none;
+    color: white;
 }
 
 .two{
-    height: 400px;
+    align-content: center;
     background-color: floralwhite;
+
 }
 .big{
-    height: 400px;
-    width: 100%;
-}
-    
-.beauty{
-   position: absolute;
-    top:120px;
-    left:30px;
-    right: 85%;
+    width: 970px;
+    height: 350px;
+}.beauty{
+    position: absolute;
+    top:100px;
+  margin-right: 900px;
 }
 .beauty h2{
     font-size: 30px;
 }
 .email{
     position: absolute;
-    top:350px;
-    left:30px;
+    top:300px;
+    border-top: 3px solid green;
+    border-bottom: 3px solid green;
 }
 .email p{
     text-decoration-line: overline;
@@ -49,22 +59,17 @@ header{
 .three{
     background-color: floralwhite;
 }
-.details{
-    background-color: darkslategray;
-    margin-right: 1100px;
-    margin-left: 50px;
-    margin-top: 50px;
-    margin-bottom: 30px;
-    border: 5px solid black;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius:15px;
+.p_one{
+     padding-right: 700px;
+}
+.p_one p{
+    font-size: 20px;
 }
 .butt{
-    height: 100px;
+    height: 40px;
     width: 100px;
     border: solid black;
+    background-color: black;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     border-top-left-radius: 10px;
@@ -72,6 +77,11 @@ header{
     -webkit-border-radius: 100%px;
 -moz-border-radius: 100%px;
 border-radius: 100%px;
+}
+#button_p{
+    color: white;
+    font-size:15px;
+    text-align: center;
 }
 
 .details p{
@@ -91,6 +101,9 @@ border-radius: 100%px;
 .edit{
      position: absolute;
 }
+.edit_p{
+    margin-right: 50px;
+}
 .versatile{
     position: absolute;
     padding-bottom: 70px;
@@ -105,18 +118,38 @@ border-radius: 100%px;
 .fourr{
     background-color: floralwhite;
 }
+
+.four_p{
+    position: absolute;
+    margin-right: 700px;
+
+}
+.four_p p{
+    font-size: 25px;
+}
 .phone{
    position: relative;
     padding-left: 70%;
+
 }
 .five{
     background-color: floralwhite;
+
 }
 .five h2{
     padding-left: 500px;
 }
+.five_p{
+    padding-left: 350px;
+
+}
+.five_p p{
+    font-size:35px;
+}
 .shoes{
-    position: relative;
+    position: absolute;
+    top:1350px;
+    height:200px;
 }
 .six{
     background-color:darkkhaki;
@@ -135,10 +168,10 @@ border-radius: 100%px;
 footer{
   background-color: darkslategray  
 }
-.foot p{
+#foot p{
     margin-left: 250px;
 }
-.foot p p{
+#foot p p{
     margin-left: 300px;
 }
     
